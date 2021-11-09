@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uridinh
 - 👀 I’m interested in Design and Game
 - 🌱 I’m currently learning WEB Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... several projects for training more skills
 - 📫 How to reach me ... @uridinh (Telegram) - @uridinh2707 (Messenger) - @uridinh (Twitter)
 <!---
 uridinh/uridinh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
