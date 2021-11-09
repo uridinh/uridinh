@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uridinh
-- 👀 I’m interested in design and game
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Design and Game
+- 🌱 I’m currently learning WEB Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @uridinh2707 (Telegram) - @uridinh2707 (Messenger) - @uridinh (Twitter)
 <!---
